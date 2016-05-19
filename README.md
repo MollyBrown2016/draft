@@ -16,7 +16,7 @@
 
 #架构
 ##后端:python [tormado](http://www.tornadoweb.cn/) 或者go?
-##前端:[riot](http://riotjs.com/zh/)
+##前端:[riot](http://riotjs.com/zh/) + [pure](http://purecss.io/)
 
 
 
