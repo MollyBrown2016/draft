@@ -9,8 +9,7 @@
 `sudo apt-get install vim`   
 ###[install go](http://ask.xmodulo.com/install-go-language-linux.html)
 ######因为linux系统里修改配置文件多数用到vim，先简单了解下，当然如果熟练使用更好 [vim简单使用说明](http://www.jianshu.com/p/bcbe916f97e1)
-######推荐编辑器[liteide](https://github.com/visualfc/liteide/blob/master/liteidex/deploy/welcome/en/install.md)
-######备选 [sublime3](https://www.sublimetext.com/)
+######[开发工具](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/01.4.md)
 
 ##1, 新建个文件夹，然后把github项目clone到本地
 `git clone https://github.com/MollyBrown2016/draft.git`
