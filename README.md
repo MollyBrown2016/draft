@@ -11,11 +11,12 @@
 `git push origin master`    
 ######输入用户名和密码
 
-###[git说明](https://git-scm.com/book/zh/v2)
+###[git简要说明](http://rogerdudler.github.io/git-guide/index.zh.html)
+###以及，[git文档](https://git-scm.com/book/zh/v2)
 
 
 #架构
-##后端:python [tormado](http://www.tornadoweb.cn/) 或者go?
+##后端:go
 ##前端:[riot](http://riotjs.com/zh/) + [pure](http://purecss.io/)
 
 
