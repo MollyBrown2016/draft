@@ -28,6 +28,8 @@
 #架构
 ##后端: go
 ###[go web](https://www.gitbook.com/book/wizardforcel/build-web-application-with-golang/details)
+###[go's httpd wiki](https://golang.org/doc/articles/wiki/)
+###[go pitfalls](http://colobu.com/2015/09/07/gotchas-and-common-mistakes-in-go-golang/)
 ##前端: [riot](http://riotjs.com/zh/) + [pure](http://purecss.io/)
 
 
