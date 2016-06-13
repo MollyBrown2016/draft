@@ -2,10 +2,11 @@
 ###[git简要说明](http://rogerdudler.github.io/git-guide/index.zh.html)
 ###以及，[git文档](https://git-scm.com/book/zh/v2)
 
-##0, install git, go, postgresql, vim...
+##0, install git, go, mysql, vim...
 `sudo apt-get update`   
 `sudo apt-get install git`   
-`sudo apt-get install postgresql postgresql-contrib`   
+~~`sudo apt-get install postgresql postgresql-contrib`~~      
+`sudo apt-get install mysql-server mysql-client`    
 `sudo apt-get install vim`   
 ###[install go](http://ask.xmodulo.com/install-go-language-linux.html)
 ######因为linux系统里修改配置文件多数用到vim，先简单了解下，当然如果熟练使用更好    
