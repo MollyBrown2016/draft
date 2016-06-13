@@ -25,6 +25,8 @@
 `git push origin master`    
 ######输入用户名和密码
 
+##[gitbhu常见操作错误](http://blog.csdn.net/dengjianqiang2011/article/details/9260435)
+
 
 #架构
 ##后端: go
