@@ -34,6 +34,6 @@
 ###[go's httpd wiki](https://golang.org/doc/articles/wiki/)
 ###[go pitfalls](http://colobu.com/2015/09/07/gotchas-and-common-mistakes-in-go-golang/)
 ##前端: [riot](http://riotjs.com/zh/) + [pure](http://purecss.io/)
-
+[项目说明](http://ju.outofmemory.cn/entry/233097)
 
 
